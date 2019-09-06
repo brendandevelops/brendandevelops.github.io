@@ -177,8 +177,7 @@
 
 .container .contentholder2 .objectives1{
 	width: 53%;
-	height: 250px
-	
+	height: 250px;
 	float: right;
 	display: block;
 	position: absolute;
@@ -285,7 +284,7 @@
 	padding: 20px;
 }
 #social-links p{
-	text-align: lef
+	text-align: left;
 	font-size: 11px;
 	margin:0;
 
